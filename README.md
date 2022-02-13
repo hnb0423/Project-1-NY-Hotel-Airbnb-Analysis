@@ -1,4 +1,4 @@
-# Project 1 NY Hotel and Airbnb Analysis
+# Project 1: NY Hotel and Airbnb Analysis
 
 The goal of this project is to analyze and visualize factors that characterize high quality hotels and Airbnbs in New York State and provide travellers with optimal decision that best suit their needs. I use Python, OpenRefine, R, SQL, MongoDB, and Tableau for data processing, data analysis, and data visualization. 
 
