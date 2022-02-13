@@ -5,39 +5,39 @@ The goal of this project is to analyze and visualize factors that characterize h
 1.1 Raw Data:
 
 ●	Hotel: https://www.programmableweb.com/news/10-top-apis-hotels/brief/2019/09/08 <br/>
-●	Airbnb: http://insideairbnb.com/get-the-data.html
-●	Hotel properties:https://data.cityofnewyork.us/City-Government/Hotels-Properties-Citywide/tjus-cn27
-●	Restaurant: https://data.cityofnewyork.us/Health/restaurant-data-set-2/f6tk-2b7a
+●	Airbnb: http://insideairbnb.com/get-the-data.html <br/>
+●	Hotel properties:https://data.cityofnewyork.us/City-Government/Hotels-Properties-Citywide/tjus-cn27 <br/>
+●	Restaurant: https://data.cityofnewyork.us/Health/restaurant-data-set-2/f6tk-2b7a <br/>
 
 1.2 Data Cleaning and transformation: 
 
-●	All data are in csv format
-●	Cleaning process:
-a.	Use OpenRefine and Excel to cluster and clean excessive and repetitive rows. 
-b.	Use Python to drop unnecessary columns and conduct a normalization process. See python files
-i.	‘NY Airbnb & NY hotel Clean Steps.ipynb’  for normalization process 
-ii.	‘Hotel_properties_clean.ipynb’
+●	All data are in csv format<br/>
+●	Cleaning process: <br/>
+a.	Use OpenRefine and Excel to cluster and clean excessive and repetitive rows. <br/>
+b.	Use Python to drop unnecessary columns and conduct a normalization process. See python files <br/>
+i.	‘NY Airbnb & NY hotel Clean Steps.ipynb’  for normalization process <br/>
+ii.	‘Hotel_properties_clean.ipynb’ <br/>
 
 1.3 Data Storing
 
-●	Export from OpenRefine in csv file. 
-●	Load data into SQL using import wizard.
-●	Load data into MongoDB using terminal common lines. 
+●	Export from OpenRefine in csv file. <br/>
+●	Load data into SQL using import wizard. <br/>
+●	Load data into MongoDB using terminal common lines. <br/>
 
 In SQL:
-●	Created schema called ‘hotel’
-●	Create database using the SQL file ‘SQL Data Import.sql’
-●	Used SQL queries to generate insights
+●	Created schema called ‘hotel’ <br/>
+●	Create database using the SQL file ‘SQL Data Import.sql’ <br/>
+●	Used SQL queries to generate insights <br/>
 In MongoDB
-●	Created schema called ‘NYDB’ using file ‘Mongo DB Data import.txt’
-●	Used MongoDB queries to generate insights
+●	Created schema called ‘NYDB’ using file ‘Mongo DB Data import.txt’ <br/>
+●	Used MongoDB queries to generate insights <br/>
 
 1.4 Visualization & Models
 
-Tableau: Connect SQL server to Tableau 
-●	Workbook ‘Data Visualization.twbx’
+Tableau: Connect SQL server to Tableau  <br/>
+●	Workbook ‘Data Visualization.twbx’ <br/>
 
-SQL:
+SQL: <br/>
 ●	Used SQL queries to generate insights
 
 MongoDB:
