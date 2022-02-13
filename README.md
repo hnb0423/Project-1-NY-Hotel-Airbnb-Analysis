@@ -4,7 +4,7 @@ The goal of this project is to analyze and visualize factors that characterize h
 
 1.1 Raw Data:
 
-●	Hotel: https://www.programmableweb.com/news/10-top-apis-hotels/brief/2019/09/08
+●	Hotel: https://www.programmableweb.com/news/10-top-apis-hotels/brief/2019/09/08 <br/>
 ●	Airbnb: http://insideairbnb.com/get-the-data.html
 ●	Hotel properties:https://data.cityofnewyork.us/City-Government/Hotels-Properties-Citywide/tjus-cn27
 ●	Restaurant: https://data.cityofnewyork.us/Health/restaurant-data-set-2/f6tk-2b7a
