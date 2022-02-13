@@ -24,7 +24,7 @@ ii.	‘Hotel_properties_clean.ipynb’ <br/>
 ●	Load data into SQL using import wizard. <br/>
 ●	Load data into MongoDB using terminal common lines. <br/>
 
-In SQL:
+In SQL: <br/>
 ●	Created schema called ‘hotel’ <br/>
 ●	Create database using the SQL file ‘SQL Data Import.sql’ <br/>
 ●	Used SQL queries to generate insights <br/>
@@ -40,10 +40,10 @@ Tableau: Connect SQL server to Tableau  <br/>
 SQL: <br/>
 ●	Used SQL queries to generate insights
 
-MongoDB:
+MongoDB: <br/>
 ●	Used MongoDB queries to generate insights
 
-R:
+R: <br/>
 ●	Used R to generate text cloud, r file ‘text-analysis.RMD’
 ●	Used R to generate linear regression, logistic regression, random forest model ‘R-Analysis.RMD’. 
 
