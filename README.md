@@ -44,7 +44,7 @@ MongoDB: <br/>
 ●	Used MongoDB queries to generate insights
 
 R: <br/>
-●	Used R to generate text cloud, r file ‘text-analysis.RMD’
+●	Used R to generate text cloud, r file ‘text-analysis.RMD’ <br/>
 ●	Used R to generate linear regression, logistic regression, random forest model ‘R-Analysis.RMD’. 
 
 
