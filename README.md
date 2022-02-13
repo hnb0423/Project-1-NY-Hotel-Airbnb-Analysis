@@ -28,6 +28,7 @@ In SQL: <br/>
 ●	Created schema called ‘hotel’ <br/>
 ●	Create database using the SQL file ‘SQL Data Import.sql’ <br/>
 ●	Used SQL queries to generate insights <br/>
+
 In MongoDB <br/>
 ●	Created schema called ‘NYDB’ using file ‘Mongo DB Data import.txt’ <br/>
 ●	Used MongoDB queries to generate insights <br/>
