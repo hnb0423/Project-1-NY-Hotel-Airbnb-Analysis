@@ -1,1 +1,1 @@
-# Project1 NY-Hotel-Airbnb-Analysis
+# Project1 NY Hotel and Airbnb Analysis
